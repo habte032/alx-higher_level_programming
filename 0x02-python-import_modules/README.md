@@ -37,7 +37,7 @@ Implement a basic calculator program (100-my_calculator.py) that imports functio
 
 **7. Easy Print (101-easy_print.py)**
 
-Write a program (101-easy_print.py) that prints "#pythoniscool" without using standard printing functions, `eval`, `open`, or `sys`.
+Write a program (101-easy_print.py) that print "#pythoniscool" without using standard printing functions, `eval`, `open`, or `sys`.
 
 **8. Bytecode Challenge (102-magic_calculation.py)**
 
